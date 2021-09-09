@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
 Here are some ideas to get you started:
     - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
@@ -31,13 +26,6 @@ Here are some ideas to get you started:
     - 📫 How to reach me: ...
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...
-            </td>
-            <td>
-                <!--右侧内容-->
-![](https://github-readme-stats.vercel.app/api?username=chamip&theme=dark)
-            </td>
-        </tr>
-    </table>
 
-</html>
+![](https://github-readme-stats.vercel.app/api?username=chamip&theme=dark)
 
